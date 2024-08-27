@@ -1,31 +1,56 @@
-# Hi there, I'm [Your Name]! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm a [Your Role] passionate about [Your Interests]. 
+# Hi there, I'm Kaival! 👋
 
-## 🔧 Technologies & Tools
+Welcome to my GitHub profile! I'm a full stack developer passionate about learning new tools and technologies.
 
-- Programming Languages: [Languages you work with]
-- Frameworks & Libraries: [Frameworks and libraries you use]
-- Tools: [Your favorite tools and platforms]
+<hr/>
 
-## 🌟 Projects
+<div> 
+  <a href="mailto:mailkaivalshah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/kaival-shah-411b31240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-Here are some of the projects I've been working on:
+<hr/>
 
-- **[Project 1 Name]** - [Brief description of what this project does or is about]
-- **[Project 2 Name]** - [Brief description of what this project does or is about]
-- **[Project 3 Name]** - [Brief description of what this project does or is about]
+<h2>Languages</h2>
+<br/>
+<div>
+    <img src="https://skillicons.dev/icons?i=javascript,python,c,cpp,dart,html,latex" />
+</div>
 
-Feel free to explore my repositories for more of my work!
+<hr/>
 
-## 📫 How to Reach Me
+<h2>Tools & Frameworks</h2>
+<br/>
+<div>
+    <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,react,flutter,css,vscode,github,figma,git,vercel,postgres,mysql,mongodb,express,nodejs,flask,arduino,firebase,linux,opencv,tensorflow,pytorch,scikitlearn,ubuntu" />
+</div>
 
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio Website]
+<hr/>
 
-## 🚀 Fun Fact
+<h2>🌟 Projects</h2>
+<div>
+<p>Here are some of the projects I'm currently working on:</p>
 
-[Add something interesting or quirky about yourself!]
+- **AI_Powered_Resume_Analyzer** - This is about using NLP to provide insights on the resume based on the job description.
+- **AI_Based_News_Classifier** - A deep learning model that classifies news articles into 8 broad categories.
 
-Thanks for stopping by! ✨
+<p>Feel free to explore my repositories for more of my work!</p>
+
+<p>Thanks for stopping by! ✨</p>
+</div>
+
+</div>
+
+<hr/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kingk-130303&theme=dracula&hide_border=false)<br/>
+
+
+
